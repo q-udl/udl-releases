@@ -1,0 +1,15 @@
+{
+  "project": "wg-qc-log",
+  "channel": "production",
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "packageName": "com.udluthfi.wgqclog",
+  "releaseTag": "wg-qc-log-production-v0.1.2-build3",
+  "apkFile": "WG-QC-0.1.2-build3-production.apk",
+  "apkUrl": "https://github.com/q-udl/udl-releases/releases/download/wg-qc-log-production-v0.1.2-build3/WG-QC-0.1.2-build3-production.apk",
+  "apkBytes": 64997214,
+  "apkSha256": "3971859783c6318ca9acc7f9dd65a35400e44e939e21d95a48c4d2fd18772c4f",
+  "signingCertificateSha256": "6216b661c2a955c036a4a94228f0226c28ba6ff6e06be90c0617686e87b4d030",
+  "releaseNotes": "Initial WG QC Log production release 0.1.2 build 3.",
+  "publishedAt": "2026-08-08T18.26.23Z"
+}
