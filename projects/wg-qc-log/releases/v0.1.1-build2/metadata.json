@@ -1,0 +1,15 @@
+{
+  "project": "wg-qc-log",
+  "channel": "internal",
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "packageName": "com.udluthfi.wgqclog",
+  "releaseTag": "wg-qc-log-internal-v0.1.1-build2",
+  "apkFile": "WG-QC-0.1.1-build2-internal.apk",
+  "apkUrl": "https://github.com/q-udl/udl-releases/releases/download/wg-qc-log-internal-v0.1.1-build2/WG-QC-0.1.1-build2-internal.apk",
+  "apkBytes": 47799081,
+  "apkSha256": "11ce83ccd80407fb1c16fa3bfb9979aeddd081828bab31748a3875e1fa292fdd",
+  "signingCertificateSha256": "7bf1e1016d81c9db4f5c7c7b8aa87e906209dbb6c0e706154bc76e4ddb461928",
+  "releaseNotes": "Internal updater UAT build.",
+  "publishedAt": "2026-08-08T16:54:00Z"
+}
