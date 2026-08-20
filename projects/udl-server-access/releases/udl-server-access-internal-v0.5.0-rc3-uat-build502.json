@@ -1,0 +1,15 @@
+{
+  "project": "udl-server-access",
+  "channel": "internal",
+  "versionCode": 502,
+  "versionName": "0.5.0-rc3-uat",
+  "packageName": "com.udl.serveraccess",
+  "releaseTag": "udl-server-access-internal-v0.5.0-rc3-uat-build502",
+  "apkFile": "UDL-Server-Access-0.5.0-rc3-uat-build502-internal.apk",
+  "apkUrl": "https://github.com/q-udl/udl-releases/releases/download/udl-server-access-internal-v0.5.0-rc3-uat-build502/UDL-Server-Access-0.5.0-rc3-uat-build502-internal.apk",
+  "apkBytes": 38871337,
+  "apkSha256": "86dcd4baf44d01de10a68d22671fb6356a45c598cb7af2fb643c1ab1c371d99c",
+  "signingCertificateSha256": "de0489bb8ac8c95dc2b88f53da49ea03dc019cb42ba7a52111427a847a1c5cdf",
+  "releaseNotes": "Stage 2C.6B internal mandatory-update UAT target. Not a production release.",
+  "publishedAt": "2026-08-20T23:08:31Z"
+}
